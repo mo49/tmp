@@ -9,3 +9,4 @@ aaa
 
 aditional function
 
+new-function-1
