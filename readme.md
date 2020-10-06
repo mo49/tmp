@@ -1,3 +1,5 @@
+'hotfix/make-from-master-test'
+
 make hotfix branch from master
 
 # HOTFIX
